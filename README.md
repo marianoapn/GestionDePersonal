@@ -1,4 +1,4 @@
-# GestionDePersonal
+# Gestion De Personal
 
 Este proyecto fue desarrollado en solitario como parte del Proyecto 2 de la materia Programación 2 (2023). Se trata de un sistema de gestión de personal que permite administrar postulantes, evaluadores, entrevistas y puestos de trabajo. 
 
